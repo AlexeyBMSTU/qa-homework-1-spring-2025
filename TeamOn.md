@@ -31,7 +31,8 @@
 URL: https://pushart.online/profile/createpost
 
 **Нажать на кнопку "Опубликовать"**
-<img width="855" src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
+<img width="550" align="left" src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
+<br clear="left">
 
 *Ожидмаемый результат*: 
 - Пост опубликовавывется 
@@ -39,7 +40,7 @@ URL: https://pushart.online/profile/createpost
 *Фактический результат*: 
 - Пост опубликовался
    
-<img width="855" src="https://github.com/user-attachments/assets/5d065221-090e-4b93-9437-c20e29784e12" />
+<img width="550" align="left" src="https://github.com/user-attachments/assets/5d065221-090e-4b93-9437-c20e29784e12" />
 
 
 ### Редактировать пост
@@ -56,7 +57,8 @@ URL: https://pushart.online/profile/updateepost
 *Фактический результат*: 
 - Пост обновился
 
-<img width="855" src="https://github.com/user-attachments/assets/176fd8b5-24e4-48e6-8804-f5e81f6a726d" />
+<img width="550" align="left" src="https://github.com/user-attachments/assets/176fd8b5-24e4-48e6-8804-f5e81f6a726d" />
+<br clear="left">
 
 ### Отправить пожертвование
 
@@ -88,8 +90,8 @@ URL: https://pushart.online/profile/
 *Фактический результат*: 
 - Контент открылся
 
-<img width="450" src="https://github.com/user-attachments/assets/1d9f8b49-07bd-49d7-91ba-e53a0d3b430a" />
-
+<img width="450" align="left" src="https://github.com/user-attachments/assets/1d9f8b49-07bd-49d7-91ba-e53a0d3b430a" />
+<br clear="left">
 
 ### Оставить жалобу к посту
 
@@ -103,7 +105,7 @@ URL: https://pushart.online/profile/
 - Появилось модальное окно с проверкой жалобы. После положительного ответа, пост для пользователя исчез (отправился к модератору).
 
 <img width="700" src="https://github.com/user-attachments/assets/80fa83ce-b92b-43db-a6e1-ef47d0b981cd" />
-
+ 
 -------------------------------------------
 ### Заблокировать пост (для модератора)
 URL: https://pushart.online/moderation
