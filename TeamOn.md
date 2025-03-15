@@ -38,7 +38,9 @@ URL: https://pushart.online/profile/createpost
 
 *Фактический результат*: 
 - Пост опубликовался
+   
 <img width="855"  src="https://github.com/user-attachments/assets/5d065221-090e-4b93-9437-c20e29784e12" />
+
 
 ### Редактировать пост
 
