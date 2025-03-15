@@ -42,12 +42,14 @@ URL: https://pushart.online/profile/createpost
    
 <img width="550" align="left" src="https://github.com/user-attachments/assets/5d065221-090e-4b93-9437-c20e29784e12" />
 
+<br clear="left">
 
 ### Редактировать пост
 
 URL: https://pushart.online/profile/updateepost
 
 **Нажать на кнопку "Сохранить"**
+
 <img width="550" align="left" src="https://github.com/user-attachments/assets/48754124-2014-4026-8fab-d47dca49413e" />
 <br clear="left">
 
