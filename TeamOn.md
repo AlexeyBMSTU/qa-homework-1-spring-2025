@@ -31,7 +31,7 @@
 URL: https://pushart.online/profile/createpost
 
 **Нажать на кнопку "Опубликовать"**
-<img width="855" align="left" src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
+<img width="855" src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
 
 *Ожидмаемый результат*: 
 - Пост опубликовавывется 
@@ -47,7 +47,7 @@ URL: https://pushart.online/profile/createpost
 URL: https://pushart.online/profile/updateepost
 
 **Нажать на кнопку "Сохранить"**
-<img width="550" align="left" src="https://github.com/user-attachments/assets/48754124-2014-4026-8fab-d47dca49413e" />
+<img width="550" src="https://github.com/user-attachments/assets/48754124-2014-4026-8fab-d47dca49413e" />
 
 *Ожидаемый результат*: 
 - Пост обновляется
