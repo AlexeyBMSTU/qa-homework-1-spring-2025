@@ -55,7 +55,7 @@ URL: https://pushart.online/profile/updateepost
 *Фактический результат*: 
 - Пост обновился
 
-<img width="550" src="https://github.com/user-attachments/assets/176fd8b5-24e4-48e6-8804-f5e81f6a726d" />
+<img width="855" src="https://github.com/user-attachments/assets/176fd8b5-24e4-48e6-8804-f5e81f6a726d" />
 
 ### Отправить пожертвование
 
