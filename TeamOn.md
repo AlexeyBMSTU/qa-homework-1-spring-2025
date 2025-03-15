@@ -31,8 +31,7 @@
 URL: https://pushart.online/profile/createpost
 
 **Нажать на кнопку "Опубликовать"**
-<img width="455" align="left" src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
-<br>
+<img width="855" align="left" src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
 
 *Ожидмаемый результат*: 
 - Пост опубликовавывется 
