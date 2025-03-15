@@ -33,6 +33,8 @@ URL: https://pushart.online/profile/createpost
 **Нажать на кнопку "Опубликовать"**
 <img width="400" align="left"  src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
 
+
+
 *Ожидмаемый результат*: 
 - Пост опубликовавывется 
 
@@ -100,7 +102,7 @@ URL: https://pushart.online/profile/
 
 *Фактический результат*: 
 - Появилось модальное окно с проверкой жалобы. После положительного ответа, пост для пользователя исчез (отправился к модератору).
-- 
+
 <img width="700" src="https://github.com/user-attachments/assets/80fa83ce-b92b-43db-a6e1-ef47d0b981cd" />
 
 -------------------------------------------
