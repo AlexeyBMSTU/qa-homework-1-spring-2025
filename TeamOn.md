@@ -27,7 +27,7 @@
 
 
 ### Выложить пост
-
+<img width="855"  src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
 
 ### Редактировать пост
 
