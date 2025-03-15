@@ -31,7 +31,7 @@
 URL: https://pushart.online/profile/createpost
 
 **Нажать на кнопку "Опубликовать"**
-<img width="855"  src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
+<img width="450"  src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
 
 *Ожидмаемый результат*: 
 - Пост опубликовавывется 
@@ -45,7 +45,7 @@ URL: https://pushart.online/profile/createpost
 URL: https://pushart.online/profile/updateepost
 
 **Нажать на кнопку "Сохранить"**
-<img width="855" src="https://github.com/user-attachments/assets/48754124-2014-4026-8fab-d47dca49413e" />
+<img width="550" src="https://github.com/user-attachments/assets/48754124-2014-4026-8fab-d47dca49413e" />
 
 *Ожидаемый результат*: 
 - Пост обновляется
@@ -53,7 +53,7 @@ URL: https://pushart.online/profile/updateepost
 *Фактический результат*: 
 - Пост обновился
 
-<img width="855" src="https://github.com/user-attachments/assets/176fd8b5-24e4-48e6-8804-f5e81f6a726d" />
+<img width="550" src="https://github.com/user-attachments/assets/176fd8b5-24e4-48e6-8804-f5e81f6a726d" />
 
 ### Отправить пожертвование
 
@@ -85,7 +85,7 @@ URL: https://pushart.online/profile/
 *Фактический результат*: 
 - Контент открылся
 
-<img width="855" src="https://github.com/user-attachments/assets/1d9f8b49-07bd-49d7-91ba-e53a0d3b430a" />
+<img width="450" src="https://github.com/user-attachments/assets/1d9f8b49-07bd-49d7-91ba-e53a0d3b430a" />
 
 
 ### Оставить жалобу к посту
