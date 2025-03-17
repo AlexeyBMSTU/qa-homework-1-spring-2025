@@ -4,7 +4,6 @@
 - Версия браузера:  **133.0.6943.142 (Официальная сборка), (64 бит)**
 
 ## Список валидаций
-### Почта
 
 [Политика валидации имени](./validationPolitics.md#политика-валидации-почты)
 
@@ -24,6 +23,23 @@
 ## Полный список функционала
 ### Регистрация
 
+URL: https://pushart.online/signup
+
+<br clear="left">
+
+**Нажать на кнопку "Зарегистрироваться"**
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/91234900-baf3-4cd6-b9db-b0235fb41af4" />
+<br clear="left">
+
+*Ожидмаемый результат*: 
+- Успешная регистрация, редирект на страницу ленты 
+
+*Фактический результат*: 
+- Корректно
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/58a1d387-bac5-46a4-b68a-cfd5769e80e7" />
+<br clear="left">
 
 ### Аутентификация
 
