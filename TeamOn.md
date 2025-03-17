@@ -5,6 +5,8 @@
 
 ## Список валидаций
 
+### Почта
+
 [Политика валидации имени](./validationPolitics.md#политика-валидации-почты)
 
 ### Имя
@@ -43,9 +45,63 @@ URL: https://pushart.online/signup
 
 ### Аутентификация
 
+URL: https://pushart.online/login
 
-### Загрузить аватарку и фон
+<br clear="left">
 
+**Ввести логин и пароль существующего пользователя. Нажать на кнопку "Войти"**
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/7f39396a-5d1b-4094-b1c6-3a724e35f398" />
+<br clear="left">
+
+*Ожидмаемый результат*: 
+- Успешная аутентификация, редирект на страницу ленты 
+
+*Фактический результат*: 
+- Корректно
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/58a1d387-bac5-46a4-b68a-cfd5769e80e7" />
+<br clear="left">
+
+### Загрузить аватарку
+
+URL: https://pushart.online/settings
+
+<br clear="left">
+
+**Перейти в настройки на вкладку "Основная информация". Нажать кнопку "Выбрать аватар". Выбрать картинку в формате jpg, jpeg, png.**
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/b93bfd29-4b94-486d-b752-f1f9a1f9eab9" />
+<br clear="left">
+
+*Ожидмаемый результат*: 
+ Над кнопкой "Выбрать аватар" аватар изменился. Появилась плашка "Аватар успешно применён". 
+
+*Фактический результат*: 
+- Корректно
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/321ab414-8166-493a-86d0-852bd4840986" />
+<br clear="left">
+
+### Загрузить фон
+
+URL: https://pushart.online/profile
+
+<br clear="left">
+
+**Стать автором, если пользователь таким еще не является. Перейти в профиль. Навести курсор на обложку. Появится плашка "Выбрать обложку". При нажатии на неё выбрать картинку в формате jpg, jpeg, png.**
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/dde2d019-fb34-4139-946d-7bf184d270bd" />
+<br clear="left">
+
+*Ожидмаемый результат*: 
+- Обложка изменилась 
+
+*Фактический результат*: 
+- Корректно
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/95864e69-45f9-4648-9f43-740af2749f4d" />
+<br clear="left">
 
 ### Выложить пост
 
