@@ -75,7 +75,7 @@ URL: https://pushart.online/settings
 <br clear="left">
 
 *Ожидмаемый результат*: 
- Над кнопкой "Выбрать аватар" аватар изменился. Появилась плашка "Аватар успешно применён". 
+- Над кнопкой "Выбрать аватар" аватар изменился. Появилась плашка "Аватар успешно применён". 
 
 *Фактический результат*: 
 - Корректно
@@ -144,6 +144,25 @@ URL: https://pushart.online/profile/updateepost
 
 ### Отправить пожертвование
 
+URL: https://pushart.online/profile/810228bc-16f8-4b67-891b-fbcd4a56ccef
+
+<br clear="left">
+
+**Перейти на страницу автора. Нажать кнопку "Поблагодарить". В открывшемся окне ввести сумму благодарности и сообщение (при желании). Нажать кнопку "Отправить". Произвести платёж через Юкассу.**
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/fb897a82-cf71-4869-b25d-9c0f8fa7dcba" />
+<img width="550" align="left" src="https://github.com/user-attachments/assets/bcc94ae7-24fd-4514-8d45-bea5608ca338" />
+<img width="550" align="left" src="https://github.com/user-attachments/assets/1844ce75-108f-40c6-98b9-5691dfef3ae1" />
+<br clear="left">
+
+*Ожидмаемый результат*: 
+- Платёж успешно осущетсвлён. Деньги отправлены авторы 
+
+*Фактический результат*: 
+- Корректно. Баланс автора увеличился на сумму доната.
+
+<img width="550" align="left" src="https://github.com/user-attachments/assets/58a1d387-bac5-46a4-b68a-cfd5769e80e7" />
+<br clear="left">
 
 ### Создать подписку
 
