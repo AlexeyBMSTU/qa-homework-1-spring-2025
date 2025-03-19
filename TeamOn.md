@@ -297,8 +297,9 @@ URL: https://pushart.online/settings
 
 - Вывод статистики выплат за день
 - Вывод статистики выплат за месяц
-- Вывод статистики постов за год 
+- Вывод статистики постов за год
+- Если за определенный период транзакций не было выводится "Выплат еще не было".
 
+
+![image](https://github.com/user-attachments/assets/4afd36fb-c973-4622-a732-332dc44cb516)
 <br clear="left">
-![image](https://github.com/user-attachments/assets/37f324e9-78a8-41b7-a423-36298bfeacec)
-
