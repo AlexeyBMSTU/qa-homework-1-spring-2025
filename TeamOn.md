@@ -110,14 +110,11 @@ URL: https://pushart.online/profile/createpost
  - Если заголовок или основная часть будет пустыми, отображается ошибка.
  - Если выбрать файл не из списка поддерживаемых формато, будет ошибка: "Ошибка. Неподдерживаемый формат файла."
 
-Пример правильно оформленного поста.
+Пример оформленного поста.
    
 <img width="550" align="left" src="https://github.com/user-attachments/assets/0ea81ca7-7f02-4583-be24-6ebd085f235e" />
 <br clear="left">
-   
-<img width="550" align="left" src="https://github.com/user-attachments/assets/5d065221-090e-4b93-9437-c20e29784e12" />
-
-<br clear="left">
+  
 
 ### Редактировать пост
 
