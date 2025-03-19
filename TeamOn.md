@@ -128,6 +128,7 @@ URL: https://pushart.online/profile/updateepost
  - Если выбрать файл не из списка поддерживаемых формато, будет ошибка: "Ошибка. Неподдерживаемый формат файла."
 
 Пример правильного отредактированного поста
+
 <img width="550" align="left" src="https://github.com/user-attachments/assets/48754124-2014-4026-8fab-d47dca49413e" />
 <br clear="left">
 
