@@ -279,5 +279,26 @@ URL: https://pushart.online/notifications
 - Вывелся список уведомлений
 <img width="1498" alt="Снимок экрана 2025-03-15 в 14 14 42" src="https://github.com/user-attachments/assets/919fb2d5-56f9-4ca1-90be-d229226c9400" />
 
+-------------------------------------------
+### Статистика
 
+URL: https://pushart.online/settings
+
+*Статистика постов*
+
+- Вывод статистики постов за день 
+- Вывод статистики постов за месяц
+- Вывод статистики постов за год
+
+![image](https://github.com/user-attachments/assets/0ad01700-51b5-4f6c-b54c-51fd086bca9c)
+<br clear="left">
+
+*Статистика выплат*
+
+- Вывод статистики выплат за день
+- Вывод статистики выплат за месяц
+- Вывод статистики постов за год 
+
+<br clear="left">
+![image](https://github.com/user-attachments/assets/37f324e9-78a8-41b7-a423-36298bfeacec)
 
