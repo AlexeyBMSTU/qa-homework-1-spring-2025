@@ -26,9 +26,7 @@
 
 URL: https://pushart.online/signup
 
-<br clear="left">
-<img width="300" align="left" src="https://github.com/user-attachments/assets/91234900-baf3-4cd6-b9db-b0235fb41af4" />
-<br clear="left">
+<img width="300" src="https://github.com/user-attachments/assets/91234900-baf3-4cd6-b9db-b0235fb41af4" />
 
 - При нажатии на гиперссылку "Войти" происходит переход на [страницу аутентификации](https://pushart.online/signup)
 - При попытке зарегестрироваться с пустыми именем отображается надпись "Пожалуйста, введите имя"
@@ -44,9 +42,7 @@ URL: https://pushart.online/signup
 
 URL: https://pushart.online/login
 
-<br clear="left">
-<img width="300" align="left" src="https://github.com/user-attachments/assets/7f39396a-5d1b-4094-b1c6-3a724e35f398" />
-<br clear="left">
+<img width="300" src="https://github.com/user-attachments/assets/7f39396a-5d1b-4094-b1c6-3a724e35f398" />
 
 - При нажатии на гиперссылку "Зарегестрироваться" происходит переход на [страницу регистрации](https://pushart.online/login)
 - При попытке войти с пустыми именем отображается надпись "Пожалуйста, введите логин"
@@ -62,29 +58,19 @@ URL: https://pushart.online/login
 
 URL: https://pushart.online/settings
 
-### Основная информация
+__Основная информация__
 
-URL: https://pushart.online/settings
-
-<br clear="left">
-<img width="300" align="left" src="https://github.com/user-attachments/assets/b93bfd29-4b94-486d-b752-f1f9a1f9eab9" />
-<br clear="left">
+<img width="500" src="https://github.com/user-attachments/assets/b93bfd29-4b94-486d-b752-f1f9a1f9eab9" />
 
 - При нажатии кнопки "Выбрать аватар" открывается окно с возможностью выбрать файл
 - При выборе файла с разрешением, отличным от jpg, jpeg, png, высвечивается надпись "Неверный формат файла"
 - При выборе файла с разрешением jpg, jpeg, png высвечивается надпись "Аватар успешно применён", аватар меняется
-
-<img width="550" align="left" src="https://github.com/user-attachments/assets/321ab414-8166-493a-86d0-852bd4840986" />
-<br clear="left">
 
 ### Загрузить фон
 
 URL: https://pushart.online/profile
 
 <br clear="left">
-
-**Стать автором, если пользователь таким еще не является. Перейти в профиль. Навести курсор на обложку. Появится плашка "Выбрать обложку". При нажатии на неё выбрать картинку в формате jpg, jpeg, png.**
-
 <img width="550" align="left" src="https://github.com/user-attachments/assets/dde2d019-fb34-4139-946d-7bf184d270bd" />
 <br clear="left">
 
