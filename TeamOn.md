@@ -85,7 +85,7 @@ URL: https://pushart.online/settings
 
 __Основная информация__
 
-<img width="500" src="https://github.com/user-attachments/assets/b93bfd29-4b94-486d-b752-f1f9a1f9eab9" />
+<img width="300" src="https://github.com/user-attachments/assets/b93bfd29-4b94-486d-b752-f1f9a1f9eab9" />
 
 1. Кнопка "Выбрать аватар"
 - При нажатии кнопки "Выбрать аватар" открывается окно с возможностью выбрать файл
@@ -100,7 +100,7 @@ __Основная информация__
 
 __Безопасность__
 
-![image](https://github.com/user-attachments/assets/931b075e-0969-4e62-bfad-720c95c56e33)
+<img width="300" src="https://github.com/user-attachments/assets/931b075e-0969-4e62-bfad-720c95c56e33" />
 
 - Нажатие на кнопку "Сохранить" при незаполненных полях выводит сообщение "Данные успешно сохранены" **БАГ** (данные не должны сохраняться, сообщение лишнее)
 - Нажатие на кнопку "Сохранить" при неправильно заполненном инпуте "Старый пароль" (другие инпуты пустые) выводит сообщение "Данные успешно сохранены" **БАГ** (данные не должны сохраняться, пароль неверный, сообщение лишнее)
@@ -112,14 +112,14 @@ __Безопасность__
 - Если инпут "Придумайте новый пароль" не совпадает с инпутом "Повторите пароль", выводится сообщение "Пароли должны совпадать"
 
 __Статистика__
+
 *Статистика постов*
 
 - Вывод статистики постов за день 
 - Вывод статистики постов за месяц
 - Вывод статистики постов за год
 
-![image](https://github.com/user-attachments/assets/0ad01700-51b5-4f6c-b54c-51fd086bca9c)
-<br clear="left">
+<img width="300" src="https://github.com/user-attachments/assets/0ad01700-51b5-4f6c-b54c-51fd086bca9c" />
 
 *Статистика выплат*
 
@@ -128,30 +128,38 @@ __Статистика__
 - Вывод статистики постов за год
 - Если за определенный период транзакций не было, выводится "Выплат еще не было".
 
-![image](https://github.com/user-attachments/assets/4afd36fb-c973-4622-a732-332dc44cb516)
-<br clear="left">
+<img width="300" src="https://github.com/user-attachments/assets/4afd36fb-c973-4622-a732-332dc44cb516" />
 
 __Оценки__
-![image](https://github.com/user-attachments/assets/afd6dcfe-758b-476b-be6a-3144a1c4edf1)
+
+<img width="300" src="https://github.com/user-attachments/assets/afd6dcfe-758b-476b-be6a-3144a1c4edf1" />
+
 - Выводится статистика оценок сервиса
 - Тема оценки выводится без названия, только "Тема1, Тема7 и т.п. **БАГ** (Должны быть названия тем оценивания)
 
-### Загрузить фон
-
+--------------------------------------
+### Профиль
 URL: https://pushart.online/profile
 
-<br clear="left">
-<img width="550" align="left" src="https://github.com/user-attachments/assets/dde2d019-fb34-4139-946d-7bf184d270bd" />
-<br clear="left">
+__Загрузить фон__
 
-*Ожидмаемый результат*: 
-- Обложка изменилась 
+<img width="400" src="https://github.com/user-attachments/assets/dde2d019-fb34-4139-946d-7bf184d270bd" />
 
-*Фактический результат*: 
-- Корректно
+Кнопка "Выбрать обложку":
+- При нажатии кнопки "Выбрать обложку" открывается окно с возможностью выбрать файл
+- При выборе файла с разрешением, отличным от jpg, jpeg, png, высвечивается надпись "Неверный формат файла"
+- При выборе файла с разрешением jpg, jpeg, png фон меняется
 
-<img width="550" align="left" src="https://github.com/user-attachments/assets/95864e69-45f9-4648-9f43-740af2749f4d" />
-<br clear="left">
+__Отправить пожертвование__
+
+<img width="300" src="https://github.com/user-attachments/assets/bcc94ae7-24fd-4514-8d45-bea5608ca338" />
+
+<img width="300" src="https://github.com/user-attachments/assets/1844ce75-108f-40c6-98b9-5691dfef3ae1" />
+
+- При нажатии на кнопку "Поблагодарить" открывается окно "Пожертвование"
+- При вводе суммы пожертвования менее 10 рублей выводится сообщение "Минимум 10 рублей"
+- При вводе суммы пожертвования более 10 рублей и заполнении инпута "Сообщения" происходит редирект на страницу Юмани с корректной (введенной) суммой платежа
+- При оплате выставленного платежа деньги отправляются автору, происходит редирект на страницу автора 
 
 ### Выложить пост
 
@@ -184,28 +192,6 @@ URL: https://pushart.online/profile/updateepost
 Пример правильного отредактированного поста
 
 <img width="550" align="left" src="https://github.com/user-attachments/assets/48754124-2014-4026-8fab-d47dca49413e" />
-<br clear="left">
-
-### Отправить пожертвование
-
-URL: https://pushart.online/profile/810228bc-16f8-4b67-891b-fbcd4a56ccef
-
-<br clear="left">
-
-**Перейти на страницу автора. Нажать кнопку "Поблагодарить". В открывшемся окне ввести сумму благодарности и сообщение (при желании). Нажать кнопку "Отправить". Произвести платёж через Юкассу.**
-
-<img width="550" align="left" src="https://github.com/user-attachments/assets/fb897a82-cf71-4869-b25d-9c0f8fa7dcba" />
-<img width="550" align="left" src="https://github.com/user-attachments/assets/bcc94ae7-24fd-4514-8d45-bea5608ca338" />
-<img width="550" align="left" src="https://github.com/user-attachments/assets/1844ce75-108f-40c6-98b9-5691dfef3ae1" />
-<br clear="left">
-
-*Ожидмаемый результат*: 
-- Платёж успешно осущетсвлён. Деньги отправлены авторы 
-
-*Фактический результат*: 
-- Корректно. Баланс автора увеличился на сумму доната.
-
-<img width="550" align="left" src="https://github.com/user-attachments/assets/58a1d387-bac5-46a4-b68a-cfd5769e80e7" />
 <br clear="left">
 
 ### Создать подписку
