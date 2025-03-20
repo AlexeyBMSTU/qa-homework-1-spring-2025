@@ -125,7 +125,7 @@ __Статистика__
   
  Выводятся количество постов за год 
 
-<img width="300" src="https://github.com/user-attachments/assets/0ad01700-51b5-4f6c-b54c-51fd086bca9c" />
+<img width="500" src="https://github.com/user-attachments/assets/0ad01700-51b5-4f6c-b54c-51fd086bca9c" />
 
 *Статистика выплат*
 
@@ -140,7 +140,7 @@ __Статистика__
 Выводится количество выплат за год
 - Если за определенный период транзакций не было, выводится "Выплат еще не было".
 
-<img width="300" src="https://github.com/user-attachments/assets/4afd36fb-c973-4622-a732-332dc44cb516" />
+<img width="500" src="https://github.com/user-attachments/assets/4afd36fb-c973-4622-a732-332dc44cb516" />
 
 __Оценки__
 
